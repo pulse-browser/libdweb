@@ -40,5 +40,10 @@
   "icons": {
     "48": "./logo-flyweb-grey.svg",
     "96": "./logo-flyweb-grey.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "dns-sd@libdweb.github.io"
+    }
   }
 }

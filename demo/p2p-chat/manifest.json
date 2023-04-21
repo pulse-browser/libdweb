@@ -31,5 +31,10 @@
     },
     "default_title": "P2P Chat",
     "default_panel": "chat.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "p2p-chat@libdweb.github.io"
+    }
   }
 }

@@ -33,5 +33,10 @@
     },
     "default_title": "TCPSocket",
     "default_panel": "terminal.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "tcp@libdweb.github.io"
+    }
   }
 }

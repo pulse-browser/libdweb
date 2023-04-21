@@ -31,5 +31,10 @@
     },
     "default_title": "UDPSocket",
     "default_panel": "terminal.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "dgram@libdweb.github.io"
+    }
   }
 }

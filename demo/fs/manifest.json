@@ -31,5 +31,10 @@
     },
     "default_title": "FileSystem",
     "default_panel": "terminal.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "filesystem@libdweb.github.io"
+    }
   }
 }
